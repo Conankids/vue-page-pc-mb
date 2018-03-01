@@ -28,82 +28,152 @@
           {
             img: require('../assets/pending_speakers/ps1.png'),
             company: '清华大学',
-            title: '微电子所所长'
+            title: '微纳电子系主任、微电子所所长'
           },
           {
             img: require('../assets/pending_speakers/ps2.png'),
             company: 'NVIDIA',
-            title: '首席科学家'
+            title: 'AI技术中心亚太首席技术官'
           },
           {
             img: require('../assets/pending_speakers/ps3.png'),
-            company: '英特尔',
-            title: '数据中心事业部副总裁'
+            company: '联发科技',
+            title: '副总经理暨智能设备事业群总经理'
           },
           {
             img: require('../assets/pending_speakers/ps4.png'),
-            company: '高通',
-            title: '工程技术副总裁'
+            company: '海尔家电产业',
+            title: '集团副总裁兼CTO'
           },
           {
             img: require('../assets/pending_speakers/ps5.png'),
-            company: '联发科技',
-            title: '副总经理暨家庭娱乐产品事业群总经理'
+            company: '大华股份',
+            title: '公司副总裁兼研发中心总经理'
           },
           {
             img: require('../assets/pending_speakers/ps6.png'),
-            company: '大华股份',
-            title: '副总裁、研发中心总经理'
+            company: '高通公司',
+            title: '中国区研发负责人'
           },
           {
             img: require('../assets/pending_speakers/ps7.png'),
-            company: '百度',
-            title: '副总裁、IDG总经理'
+            company: '深鉴科技',
+            title: '联合创始人兼CEO'
           },
           {
             img: require('../assets/pending_speakers/ps8.png'),
+            company: '地平线',
+            title: '联合创始人、算法副总裁'
+          },
+          {
+            img: require('../assets/pending_speakers/ps9.png'),
+            company: '腾讯',
+            title: '智能平台产品部副总经理'
+          },
+          {
+            img: require('../assets/pending_speakers/ps10.png'),
+            company: '英特尔',
+            title: '中国研究院认知计算实验室主任&CEO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps11.png'),
             company: '宇视',
             title: '副总裁、首席架构师'
           },
           {
-            img: require('../assets/pending_speakers/ps9.png'),
-            company: '地平线',
-            title: '创始人兼CEO'
-          },
-          {
-            img: require('../assets/pending_speakers/ps10.png'),
-            company: '深鉴科技',
-            title: '联合创始人&CEO'
-          },
-          {
-            img: require('../assets/pending_speakers/ps11.png'),
-            company: '智行者',
-            title: '创始人&CEO'
-          },
-          {
             img: require('../assets/pending_speakers/ps12.png'),
+            company: '触景无限',
+            title: 'CEO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps13.png'),
+            company: 'iDeepWise',
+            title: '创始人、CEO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps14.png'),
+            company: '智行者',
+            title: '创始人、CEO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps15.png'),
             company: '小鹏汽车',
             title: '联合创始人、副总裁'
           },
           {
-            img: require('../assets/pending_speakers/ps13.png'),
-            company: '云从科技',
-            title: '合伙人、高级副总裁'
+            img: require('../assets/pending_speakers/ps16.png'),
+            company: '博世',
+            title: '底盘控制系统中国区驾驶员辅助系统雷达研发部门总监'
           },
           {
-            img: require('../assets/pending_speakers/ps14.png'),
+            img: require('../assets/pending_speakers/ps17.png'),
+            company: '云启资本',
+            title: '董事总经理'
+          },
+          {
+            img: require('../assets/pending_speakers/ps18.png'),
+            company: '启英泰伦',
+            title: '董事长'
+          },
+          {
+            img: require('../assets/pending_speakers/ps19.png'),
+            company: '瑞芯微',
+            title: '全球高级副总裁'
+          },
+          {
+            img: require('../assets/pending_speakers/ps20.png'),
+            company: '涂鸦智能',
+            title: '联合创始人兼COO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps21.png'),
+            company: '速感科技',
+            title: '创始人、CEO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps22.png'),
             company: '商汤科技',
             title: '联合创始人、副总裁'
           },
           {
-            img: require('../assets/pending_speakers/ps15.png'),
-            company: '启英泰伦',
-            title: '创始人兼董事长'
+            img: require('../assets/pending_speakers/ps23.png'),
+            company: '云从科技',
+            title: '合伙人、高级副总裁'
           },
           {
-            img: require('../assets/pending_speakers/ps16.png'),
-            company: '灵隆科技',
-            title: '总经理'
+            img: require('../assets/pending_speakers/ps24.png'),
+            company: '比特大陆',
+            title: '产品战略总监'
+          },
+          {
+            img: require('../assets/pending_speakers/ps25.png'),
+            company: 'NovuMind',
+            title: '中国区总裁'
+          },
+          {
+            img: require('../assets/pending_speakers/ps26.png'),
+            company: '深思创芯',
+            title: 'CEO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps27.png'),
+            company: '中信证券',
+            title: '前瞻研究首席分析师'
+          },
+          {
+            img: require('../assets/pending_speakers/ps28.png'),
+            company: '中国人工智能产业发展联盟',
+            title: '标准组副组长'
+          },
+          {
+            img: require('../assets/pending_speakers/ps29.png'),
+            company: '中科创达',
+            title: 'CTO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps30.png'),
+            company: '眼擎科技',
+            title: 'CEO'
           }
         ]
       }
@@ -116,6 +186,7 @@
 <style scoped lang="less">
     .page-wrap{
         height: auto;
+        background-size: 100% auto;
     }
     .ps-content {
         width: 682px;
@@ -125,7 +196,7 @@
             li{
                 float: left;
                 width: 164px;
-                height: 360px;
+                height: 385px;
                 margin-right: 10px;
                 font-size: 18px;
                 line-height: 25px;

@@ -1,7 +1,7 @@
 <template>
     <div id="host" class="host-wrap page">
         <div class="host-content">
-            <img src="../assets/host.png" alt="">
+            <img src="../assets/host.jpg" alt="">
         </div>
         <Down/>
     </div>

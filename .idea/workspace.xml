@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="289b5c9e-8f95-44a6-8483-b135595905ed" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-pc/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/css/main.8b7c82d133f423c912c7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/host-583ee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps10-26e4b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps11-be00f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps12-4cdc6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps13-8a6ae.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps14-12a0e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps15-51a0f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps16-c9fa8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps2-397e9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps3-85e45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps4-4f32a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps5-03e16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps6-1e9d5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps7-1644e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps8-c1e72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/images/ps9-0acca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gtic-pc/dist/static/js/main.8b7c82d133f423c912c7.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps1.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps10.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps11.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps12.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps13.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps14.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps15.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps16.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps17.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps2.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps3.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps4.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps5.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps6.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps7.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps8.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps9.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers/ps9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps1.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps10.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps11.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps12.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps13.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps14.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps15.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps16.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps2.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps3.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps4.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps5.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps6.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps7.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps8.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps9.png" afterPath="$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/images/ps.png" afterPath="$PROJECT_DIR$/gtic-pc/images/ps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/host.vue" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/host.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/css/index.css" afterPath="$PROJECT_DIR$/gtic-pc/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/dist/index.html" afterPath="$PROJECT_DIR$/gtic-pc/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/index.html" afterPath="$PROJECT_DIR$/gtic-pc/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-pc/less/index.less" afterPath="$PROJECT_DIR$/gtic-pc/less/index.less" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gtic-pc/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="206" column="30" lean-forward="true" selection-start-line="206" selection-start-column="30" selection-end-line="206" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gtic-pc/less/index.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="198" column="17" lean-forward="false" selection-start-line="198" selection-start-column="17" selection-end-line="198" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gtic-pc/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3090">
+              <caret line="206" column="29" lean-forward="false" selection-start-line="206" selection-start-column="29" selection-end-line="206" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2340">
+              <caret line="156" column="34" lean-forward="false" selection-start-line="156" selection-start-column="34" selection-end-line="156" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pending_speakers.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="171" column="12" lean-forward="true" selection-start-line="171" selection-start-column="12" selection-end-line="171" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>host</find>
+      <find>CopyWebpackPlugin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/host.vue" />
+        <option value="$PROJECT_DIR$/gtic-pc/less/index.less" />
+        <option value="$PROJECT_DIR$/gtic-pc/css/index.css" />
+        <option value="$PROJECT_DIR$/gtic-pc/index.html" />
+        <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/gtic-mb/vue-mb/node_modules" />
+    <handled-path value="$PROJECT_DIR$/gtic-pc/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+              <item name="gtic-mb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+              <item name="gtic-mb" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-mb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+              <item name="gtic-mb" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-mb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+              <item name="gtic-mb" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-mb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+              <item name="gtic-mb" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-mb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="pending_speakers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+              <item name="gtic-pc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers" />
+      <recent name="$PROJECT_DIR$/gtic-pc/images/pending_speakers" />
+      <recent name="$PROJECT_DIR$/gtic-pc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="289b5c9e-8f95-44a6-8483-b135595905ed" name="默认的" comment="" />
+      <created>1519731973060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519731973060</updated>
+      <workItem from="1519731979452" duration="5690000" />
+      <workItem from="1519786320618" duration="1957000" />
+      <workItem from="1519875046954" duration="870000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8517000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23624824" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29383314" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gtic-pc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="70" lean-forward="false" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/less/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="198" column="17" lean-forward="false" selection-start-line="198" selection-start-column="17" selection-end-line="198" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="206" column="29" lean-forward="false" selection-start-line="206" selection-start-column="29" selection-end-line="206" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="34" lean-forward="false" selection-start-line="156" selection-start-column="34" selection-end-line="156" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/host.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="17" lean-forward="true" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4425">
+          <caret line="295" column="28" lean-forward="false" selection-start-line="295" selection-start-column="28" selection-end-line="295" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="103" column="64" lean-forward="false" selection-start-line="103" selection-start-column="64" selection-end-line="103" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="34" lean-forward="false" selection-start-line="156" selection-start-column="34" selection-end-line="156" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/host.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/images/pending_speakers/ps2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="156" column="34" lean-forward="false" selection-start-line="156" selection-start-column="34" selection-end-line="156" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="206" column="29" lean-forward="false" selection-start-line="206" selection-start-column="29" selection-end-line="206" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/webpack.dev.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/less/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="198" column="17" lean-forward="false" selection-start-line="198" selection-start-column="17" selection-end-line="198" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="113" column="17" lean-forward="true" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/host.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="206" column="30" lean-forward="true" selection-start-line="206" selection-start-column="30" selection-end-line="206" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="171" column="12" lean-forward="true" selection-start-line="171" selection-start-column="12" selection-end-line="171" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

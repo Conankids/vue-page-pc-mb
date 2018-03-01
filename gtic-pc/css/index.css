@@ -203,8 +203,8 @@ section {
 }
 .pending-wrap {
   padding-bottom: 160px;
-  background: url("../images/ps_bg.jpg") no-repeat center center;
-  background-size: cover;
+  background: url("../images/ps_bg.jpg") repeat-y center center;
+  background-size: 100% auto;
 }
 .pending-wrap .pending-content {
   margin-top: 9px;
