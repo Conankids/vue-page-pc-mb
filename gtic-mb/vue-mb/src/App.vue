@@ -8,7 +8,7 @@
     <Park/>
     <EventRegistration/>
     <ConfrenceVenue/>
-    <PreviousGtic/>
+    <!--<PreviousGtic/>-->
     <Host/>
     <ContactUs/>
     <Footer/>

@@ -1,0 +1,399 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>【签到】GTIC 2018全球AI芯片创新峰会</title>
+    <meta name="description"
+          content="GTIC 2018全球AI芯片创新峰会，智能行业第一媒体，30万业界人士每日必读。专注报道智能行业创新人物、公司和产品，链接智能行业产业生态。看懂智能行业，就在智东西。"/>
+    <meta name="keywords" content="智东西,极果,AI芯片,创新,产业峰会"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="http://cdn.jiguo.com/arvr2016/qiandao/css/index.css">
+    <script src="http://cdn.jiguo.com/arvr2016/h5/js/jquery-1.10.1.min.js"></script>
+    <script>
+      function tosat(message, time) {
+        var id = 'tosat_' + Math.random().toString().replace('.', '');
+        message = message || '提示信息';
+        time = time || 3000;
+        $('body').append('<div class="tosat" id="' + id + '">' + message + '</div>');
+        setTimeout(function () {
+          $('#' + id).remove();
+        }, time);
+        return id;
+      }
+
+    </script>
+</head>
+
+<style>
+    .tosat {
+        position: fixed;
+        z-index: 19911224;
+        top: 100px;
+        width: 180px;
+        line-height: 26px;
+        background: rgba(0, 0, 0, .7);
+        border-radius: 5px;
+        color: #fff;
+        font-size: 14px;
+        left: 50%;
+        text-align: center;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+
+    .queren {
+        margin: 15px 15px 0;
+        color: #000;
+        background: #fff;
+    }
+
+    .queren ul li {
+        padding: 15px;
+        border-bottom: 1px solid #f1f1f1;
+        line-height: 20px;
+    }
+
+    .name-tips {
+        display: block;
+        float: left;
+    }
+
+    .name-desc {
+        display: block;
+        margin-left: 60px;
+    }
+
+    .replay-blank {
+        display: block;
+        border: 1px solid #414d5b;
+        height: 26px;
+        display: inline-block;
+        padding: 2px 6px;
+        line-height: 26px;
+        font-size: 15px;
+    }
+
+    .replay-blank a {
+        display: block;
+        color: #fff;
+    }
+
+    .footer {
+        margin: 15px;
+        border-top: 1px solid #344e6d;
+        padding-top: 15px;
+        box-sizing: border-box;
+        margin-top: 30px;
+        display: block;
+    }
+
+    .footer .success {
+        float: left;
+        width: 40%;
+        margin-right: 10px;
+
+    }
+
+    .footer .blue {
+        font-size: 15px;
+        text-align: left;
+        line-height: 25px;
+        color: #fff;
+    }
+
+    .qiandao-f {
+        display: none;
+    }
+
+    button#queren-qiandao.gray {
+        background: #A9A9A9;
+        color: #fff;
+    }
+
+    .footer img {
+        width: 70px;
+        display: inline;
+        margin-top: 8px;
+    }
+
+    body{
+        background: #112032 url("http://cdn.jiguo.com/arvr2016/qiandao/images/bg.png") repeat-y top center;
+        background-size: 100% auto;
+    }
+
+    .logo.center{
+        padding-top: 112px;
+        margin: 0 auto 63px auto;
+    }
+    .logo img {
+        width: 339.5px;
+        height: auto;
+    }
+</style>
+
+
+<body>
+<!--<div class="menu">-->
+	<!--<div class="menu-top">-->
+		<!--<div class="menu-logo fl"></div>-->
+		<!--<div class="menu-icon fr"></div>-->
+	<!--</div>-->
+<!--</div>-->
+
+<div class="logo center">
+    <img class="width-120" src="http://cdn.jiguo.com/arvr2016/qiandao/images/gtic-logo.png"/>
+</div>
+
+<form class="qiandao-1">
+    <div class="center qiandao-1">
+        <p class="blue">签到</p>
+        <p class="blue2">Check in</p>
+    </div>
+    <div class="center input-box qiandao-1" id="send-data">
+        <p class="white">请输入您报名时登记的手机号</p>
+        <label class="input-row"><input type="number" name="mobile" id="mobile" placeholder=""/></label>
+        <div class="button-warp">
+            <button type="button" id="qiandao">确认</button>
+        </div>
+    </div>
+</form>
+<script>
+  $('#mobile').focus(function () {
+    var h1 = $(window).height();
+    $('html,body').css('height', '200%');
+    $('body').css('height', '100%');
+    setTimeout(function () {
+      $(window).scrollTop(h1 / 3);
+    }, 300);
+  }).blur(function () {
+    $('html,body').css('height', '100%');
+  });
+</script>
+
+
+<form class="qiandao-2 qiandao-f">
+    <div class="center">
+        <p class="blue">请确认信息</p>
+        <p class="blue qiandao-time blue2" style=" font-size:16px;"></p>
+    </div>
+
+    <div class="queren">
+        <ul>
+            <li><span class="name-tips">姓名：</span>
+                <div class="name-desc name-1">张国仁</div>
+            </li>
+            <li><span class="name-tips">电话：</span>
+                <div class="name-desc name-2">15912313123</div>
+            </li>
+            <li><span class="name-tips">公司：</span>
+                <div class="name-desc name-3">北京极智飞扬科学技术有限公司</div>
+            </li>
+        </ul>
+    </div>
+
+    <div class="center input-box">
+        <div class="button-warp">
+            <button type="button" id="queren-qiandao">确认</button>
+        </div>
+    </div>
+    <div class="center" style="margin-top: 15px;">
+        <div class="replay-blank"><a href="#">不正确? 修改</a></div>
+    </div>
+</form>
+
+<script>
+  $('.replay-blank').click(function () {
+    $('.qiandao-f').hide();
+    $('.qiandao-1').show();
+  });
+</script>
+
+
+<form class="qiandao-3 qiandao-f">
+    <div class="center">
+        <div class="success"><img style="width:50px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/gou.png"/></div>
+        <p class="blue" style="margin:12px 0;">签到成功</p>
+        <p class="blue qiandao-time-3 blue2" style=" font-size:16px;position: relative;top: -8px;"></p>
+    </div>
+</form>
+<div class="center footer qiandao-3 qiandao-f">
+    <div class="success"><img style="width:126px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/erweima.png"/></div>
+    <p class="blue" style="margin-top: 15px;">智能行业第一媒体!</p>
+    <p class="blue">智能行业人士每日必读!</p>
+    <p class="blue">看懂智能行业，就在:</p>
+    <p class="blue"><img src="http://cdn.jiguo.com/arvr2016/qiandao/images/logo.png"/></p>
+</div>
+
+<form class="qiandao-4 qiandao-f">
+    <div class="center">
+        <div class="success"><img style="width:50px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/gantanhao.png"/>
+        </div>
+        <p class="blue" style="margin:12px 0; font-size:16px;">抱歉，没有您的报名信息！</p>
+    </div>
+</form>
+<div class="center footer qiandao-4 qiandao-f">
+    <div class="success"><img style="width:126px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/erweima.png"/></div>
+    <p class="blue" style="margin-top: 15px;">智能行业第一媒体!</p>
+    <p class="blue">智能行业人士每日必读!</p>
+    <p class="blue">看懂智能行业，就在:</p>
+    <p class="blue"><img src="http://cdn.jiguo.com/arvr2016/qiandao/images/logo.png"/></p>
+</div>
+
+<form class="qiandao-5 qiandao-f">
+    <div class="center">
+        <div class="success"><img style="width:50px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/gantanhao.png"/>
+        </div>
+        <p class="blue" style="margin:12px 0; font-size:16px;">抱歉，没有您的报名信息！</p>
+    </div>
+</form>
+<div class="center footer qiandao-5 qiandao-f">
+    <div class="success"><img style="width:126px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/erweima.png"/></div>
+    <p class="blue" style="margin-top: 15px;">智能行业第一媒体!</p>
+    <p class="blue">智能行业人士每日必读!</p>
+    <p class="blue">看懂智能行业，就在:</p>
+    <p class="blue"><img src="http://cdn.jiguo.com/arvr2016/qiandao/images/logo.png"/></p>
+</div>
+
+
+<form class="qiandao-6 qiandao-f">
+    <div class="center">
+        <div class="success"><img style="width:50px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/gantanhao.png"/>
+        </div>
+        <p class="blue" style="margin:12px 0; font-size:16px;">您的票是下午场，<br>可先到体验区体验最新科技！</p>
+    </div>
+</form>
+<div class="center footer qiandao-6 qiandao-f">
+    <div class="success"><img style="width:126px" src="http://cdn.jiguo.com/arvr2016/qiandao/images/erweima.png"/></div>
+    <p class="blue" style="margin-top: 15px;">智能行业第一媒体!</p>
+    <p class="blue">智能行业人士每日必读!</p>
+    <p class="blue">看懂智能行业，就在:</p>
+    <p class="blue"><img src="http://cdn.jiguo.com/arvr2016/qiandao/images/logo.png"/></p>
+</div>
+<script>
+
+  Date.prototype.Format = function (fmt) { //author: meizz
+    var o = {
+      "M+": this.getMonth() + 1,                 //月份
+      "d+": this.getDate(),                    //日
+      "h+": this.getHours(),                   //小时
+      "m+": this.getMinutes(),                 //分
+      "s+": this.getSeconds(),                 //秒
+      "q+": Math.floor((this.getMonth() + 3) / 3), //季度
+      "S": this.getMilliseconds()             //毫秒
+    };
+    if (/(y+)/.test(fmt))
+      fmt = fmt.replace(RegExp.$1, (this.getFullYear() + "").substr(4 - RegExp.$1.length));
+    for (var k in o)
+      if (new RegExp("(" + k + ")").test(fmt))
+        fmt = fmt.replace(RegExp.$1, (RegExp.$1.length == 1) ? (o[k]) : (("00" + o[k]).substr(("" + o[k]).length)));
+    return fmt;
+  }
+
+  $('#qiandao').bind('click', function () {
+    var mobile = $('#mobile').val().toString().replace(/\s/g, '');
+    $('#mobile').val(mobile);
+
+    if (!/^1\d{10}$/.test(mobile)) {
+      tosat('请正确输入手机号码', 3000)
+      return;
+    }
+    var tosatId = '#' + tosat('信息提交中...', 999999);
+
+    $.ajax('./qiandao.php', {
+      data: {mobile: $('#mobile').val()},
+      type: 'GET',
+      dataType: 'JSON',
+      success: function (replayData) {
+        if (replayData.status == 'success') {
+          $('.qiandao-1').hide();
+          $('.qiandao-2').show();
+          $('.name-1').html('&nbsp;' + replayData.data.name);
+          $('.name-2').html('&nbsp;' + replayData.data.mobile);
+          $('.name-3').html('&nbsp;' + replayData.data.company);
+
+          if (replayData.data.queren == 1) {
+            $('.qiandao-2>.center>.blue').html('您已经签到');
+            $('#queren-qiandao').unbind('click').addClass('gray');
+            $('.qiandao-time').html(replayData.data.qinadaotime);
+          }
+        } else if (replayData.status == 'fail') {
+          tosat(replayData.message, 3000);
+          $('.qiandao-1').hide();
+          $('.qiandao-4').show();
+        } else {
+          tosat(replayData.message, 3000);
+        }
+      },
+      complete: function (xhr, status) {
+        $(tosatId).remove();
+        if (status == 'timeout') {
+          tosat('提交数据超时', 3000);
+        } else if (status == 'error') {
+          //for(var i in xhr) console.log(i +'='+ xhr[i]);
+          tosat('系统错误', 3000);
+        }
+      },
+      timeout: 10000
+    });
+  });
+
+  $('#queren-qiandao').click(function () {
+    var tosatId = '#' + tosat('信息提交中...', 999999);
+    $.ajax('./qiandao.php', {
+      data: {mobile: $('#mobile').val(), query: 'qiandao'},
+      type: 'GET',
+      dataType: 'JSON',
+      success: function (replayData) {
+        if (replayData.status == 'success') {
+          $('.qiandao-2').hide();
+          $('.qiandao-3').show();
+          $('.qiandao-time-3').html(new Date().Format("hh:mm:ss"));
+        } else if (replayData.status == 'xiawu') {
+          $('.qiandao-f').hide();
+          $('.qiandao-6').show();
+          tosat(replayData.message, 3000);
+        } else {
+          tosat(replayData.message, 3000);
+        }
+      },
+      complete: function (status) {
+        $(tosatId).remove();
+        if (status == 'timeout') {
+          tosat('提交数据超时', 3000);
+        } else if (status == 'error') {
+          tosat('系统错误', 3000);
+        }
+      },
+      timeout: 10000
+    });
+  });
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

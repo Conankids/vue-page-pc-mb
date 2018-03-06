@@ -9,8 +9,8 @@
                 <div class="menu-item" data-target="park">科技公园</div>
                 <div class="menu-item" data-target="event-registration">活动报名</div>
                 <div class="menu-item" data-target="confrence-venue">大会地点</div>
-                <div class="menu-item" data-target="previous-gtic">往届峰会</div>
-                <div class="menu-item" data-target="host">合作伙伴</div>
+                <!--<div class="menu-item" data-target="previous-gtic">往届峰会</div>-->
+                <div class="menu-item" data-target="host">合作机构</div>
                 <div class="menu-item" data-target="contact-us">联系我们</div>
             </div>
         </Page>
@@ -70,11 +70,12 @@
     }
 
     .menu-content {
-        padding: 75px 300px 0;
         font-size: 32px;
         line-height: 45px;
         color: #40E4A3;
         text-align: center;
+        width: 150px;
+        margin: 75px auto 0;
         .menu-item {
             display: inline-block;
             margin-bottom: 50px;

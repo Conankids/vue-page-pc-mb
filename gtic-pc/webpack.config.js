@@ -36,7 +36,12 @@ module.exports = {
           fallback: 'style-loader',
           publicPath: '../../',
           use: [
-            'css-loader',
+            {
+              loader: 'css-loader',
+              options: {
+                minimize: true
+              }
+            },
             {
               loader: 'postcss-loader',
               options: {
@@ -72,7 +77,7 @@ module.exports = {
   plugins: [
     //html打包插件(生成index)
     new htmlWebpackPlugin({
-      filename: 'index.html',  //输出html文件的名字
+      filename: 'index.php',  //输出html文件的名字
       template: 'index.html',  //使用的模板文件
       inject: true,           //js插入文件的位置
       minify: {
@@ -91,7 +96,7 @@ module.exports = {
       parallel: true
     }),
     new cleanWebpackPlugin(
-      ['dist/js/main.*.js', 'dist/css/main.*.css', 'dist/images/*.jpg', 'dist/images/*.png'],　 //匹配删除的文件
+      ['dist/static/js/main.*.js', 'dist/static/css/main.*.css', 'dist/static/images/*.jpg', 'dist/static/images/*.png'],　 //匹配删除的文件
       {
         root: __dirname,       　　　　　　　　　　//根目录
         verbose: true,        　　　　　　　　　　//开启在控制台输出信息

@@ -41,8 +41,9 @@ $(window).scroll(function () {
 
 function goToElement(targetDom) {
     var headerH = $('header').height(),
-        targetId = targetDom.attr('id'),
-        targetTop = targetDom.offset().top;
+        targetId = targetDom.attr('id');
+    if(!targetId) return;
+    var targetTop = targetDom.offset().top;
     $('html,body').animate({scrollTop: targetTop+1}, 'slow', function () {
         addHightLight(targetId);
     });

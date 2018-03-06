@@ -74,6 +74,7 @@ module.exports = {
                 { from: /.*/, to: path.posix.join('/', 'index.html') },
             ],
         },
+        inline: true,
         hot: true,
         contentBase: false, // since we use CopyWebpackPlugin.
         compress: true,
