@@ -3,6 +3,7 @@
         <Page :bgSrc="bgSrc" :titleSrc="''" :innerH="innerH">
             <div class="menu-content">
                 <div class="menu-item" data-target="home">首页</div>
+                <!--<div class="menu-item" data-target="live">大会直播</div>-->
                 <div class="menu-item" data-target="about-gtic">大会介绍</div>
                 <div class="menu-item" data-target="pending-speakers">嘉宾阵容</div>
                 <div class="menu-item" data-target="gtic-awards">年度评选</div>

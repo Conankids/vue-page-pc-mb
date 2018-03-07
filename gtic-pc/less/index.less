@@ -183,6 +183,97 @@ section{
   background: url("../images/homebg.jpg") no-repeat center center;
   background-size: cover;
 }
+.live-wrap{
+  height: 900px;
+  background: url("../images/previous_gtic_bg.jpg") no-repeat center center;
+  background-size: cover;
+  .live-content{
+    margin-top: 127px;
+  }
+  .live-left{
+    width: 740px;
+    height: 426px;
+    border:10px solid #39D8DA;
+    border-image: -webkit-linear-gradient( left,#40E4A3,#36D4EB) 30 30;
+    border-image: -moz-linear-gradient( left,#40E4A3,#36D4EB) 30 30;
+    border-image: -o-linear-gradient( left,#40E4A3,#36D4EB) 30 30;
+    border-image: linear-gradient( left,#40E4A3,#36D4EB) 30 30;
+    float: left;
+    background: url("../images/homebg.jpg") no-repeat center center;
+    background-size: cover;
+    color: #39D8DA;
+    position: relative;
+  }
+  .palyer-shadow{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.3);
+    .play{
+      width: 60px;
+      height: 60px;
+      background: url("../images/player.png") no-repeat center center;
+      background-size: 60px auto;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin: -30px auto auto -30px;
+      cursor: pointer;
+    }
+  }
+  .live-right{
+    width: 283px;
+    float: right;
+    h3{
+      font-size: 28px;
+      line-height: 40px;
+      color: #39D8DA;
+      border-bottom: 2px solid #39D8DA;
+      span{
+        display: inline-block;
+        background-image: linear-gradient(to right, rgb(64, 228, 163), rgb(54, 212, 235));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    }
+    ul{
+      margin-top: 13px;
+      li{
+        margin-bottom: 5px;
+      }
+    }
+    .color-block{
+      float: left;
+      width: 7px;
+      height: 34px;
+      &.yellow{
+        background-color: #FFE25C;
+      }
+      &.red{
+        background-color: #FF552E;
+      }
+      &.blue{
+        background-color: #5CA3FF;
+      }
+      &.orange{
+        background-color: #FF7700;
+      }
+    }
+    .live-title{
+      margin-left: 10px;
+      width: 250px;
+      height: 35px;
+      background: url("../images/live-item-bg.png") no-repeat left center;
+      background-size: cover;
+      font-size: 20px;
+      line-height: 35px;
+      color: #000;
+      padding-left: 35px;
+    }
+  }
+}
 .about-wrap{
   height: 900px;
   background: url("../images/previous_gtic_bg.jpg") no-repeat center center;
@@ -548,3 +639,10 @@ footer {
     font-size: 18px;
   }
 }
+//纠正直播封面图片尺寸
+.vcp-poster{
+  .vcp-poster-pic.cover, .vcp-poster-pic.default{
+    width: 100%;
+  }
+}
+

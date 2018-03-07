@@ -122,8 +122,8 @@
           },
           {
             img: require('../assets/pending_speakers/ps20.png'),
-            company: '灵隆科技',
-            title: 'CEO'
+            company: '德州仪器半导体事业部中国区',
+            title: '嵌入式产品系统与应用总监'
           },
           {
             img: require('../assets/pending_speakers/ps21.png'),
@@ -172,18 +172,18 @@
           },
           {
             img: require('../assets/pending_speakers/ps30.png'),
+            company: '灵隆科技',
+            title: 'CEO'
+          },
+          {
+            img: require('../assets/pending_speakers/ps31.png'),
             company: '中信证券',
             title: '前瞻研究首席分析师'
           },
           {
-            img: require('../assets/pending_speakers/ps31.png'),
+            img: require('../assets/pending_speakers/ps32.png'),
             company: '中国人工智能产业发展联盟',
             title: '标准组副组长'
-          },
-          {
-            img: require('../assets/pending_speakers/ps32.png'),
-            company: '智东西',
-            title: '联合创始人、CEO'
           }
         ]
       }

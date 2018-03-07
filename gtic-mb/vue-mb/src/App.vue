@@ -2,6 +2,7 @@
   <div id="app" v-cloak>
     <MyHeader/>
     <Home/>
+    <!--<Live/>-->
     <AboutGtic/>
     <PendingSpeakers/>
     <GticAwards/>
@@ -13,7 +14,7 @@
     <ContactUs/>
     <Footer/>
     <Menu/>
-    <Register/>
+    <!--<Register/>-->
   </div>
 </template>
 
@@ -32,9 +33,24 @@
   import ContactUs from './components/contact_us'
   import Footer from './components/footer'
   import Menu from './components/menu'
+  import Live from './components/live'
+
+  import $ from 'jquery'
+  import {getParams} from '@/base/utils'
 
   export default {
     name: 'App',
+    mounted() {
+      this.disabledHref()
+    },
+    methods: {
+      disabledHref () {
+        const params = getParams()
+        if(params.laiyuan === 'wxcode'){
+          $('a').attr('href', 'javascript:;')
+        }
+      }
+    },
     components: {
       MyHeader,
       Home,
@@ -49,7 +65,8 @@
       Host,
       ContactUs,
       Footer,
-      Menu
+      Menu,
+      Live
     }
   }
 </script>

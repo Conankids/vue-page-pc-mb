@@ -14,6 +14,7 @@
     <menu>
         <img src="./images/logo.png" alt="">
         <li class="on" data-target="home">首页</li>
+        <li class="on" data-target="live">大会直播</li>
         <li data-target="about">大会介绍</li>
         <li data-target="pending">嘉宾阵容</li>
         <li data-target="awards">年度评选</li>
@@ -31,9 +32,78 @@
         head = document.querySelector('head');
     head.innerHTML += '<style>.home-wrap{height: ' + windowH + 'px;}</style>'
 </script>
+
+<script src="//imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer-2.2.1.js" charset="utf-8"></script>
 <div class="main">
     <section id="home" class="home-wrap">
         <div class="next"></div>
+    </section>
+    <section id="live" class="live-wrap">
+        <div class="section-title">
+            <img src="./images/about_gtic.png" alt="">
+        </div>
+        <div class="live-content clearfix common">
+            <div class="live-left">
+                <div id="id_test_video" style="width:100%; height:auto;"></div>
+                <!--<div class="palyer-shadow">-->
+                    <!--<div class="play"></div>-->
+                <!--</div>-->
+            </div>
+            <div class="live-right">
+                <h3><span>其他直播平台</span></h3>
+                <ul>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block yellow"></div>
+                            <div class="live-title">腾讯新闻</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block red"></div>
+                            <div class="live-title">今日头条</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block blue"></div>
+                            <div class="live-title">云溪社区</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block red"></div>
+                            <div class="live-title">凤凰直播</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block yellow"></div>
+                            <div class="live-title">天天快报</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block red"></div>
+                            <div class="live-title">新浪直播</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block blue"></div>
+                            <div class="live-title">网易直播</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <div class="color-block orange"></div>
+                            <div class="live-title">斗鱼直播</div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="next green"></div>
     </section>
     <section id="about" class="about-wrap">
         <div class="section-title">
@@ -154,8 +224,8 @@
                 </li>
                 <li>
                     <img src="./images/pending_speakers/ps20.png" alt="">
-                    <p>灵隆科技</p>
-                    <p>CEO</p>
+                    <p>德州仪器半导体事业部中国区</p>
+                    <p>嵌入式产品系统与应用总监</p>
                 </li>
                 <li>
                     <img src="./images/pending_speakers/ps21.png" alt="">
@@ -204,18 +274,18 @@
                 </li>
                 <li>
                     <img src="./images/pending_speakers/ps30.png" alt="">
+                    <p>灵隆科技</p>
+                    <p>CEO</p>
+                </li>
+                <li>
+                    <img src="./images/pending_speakers/ps31.png" alt="">
                     <p>中信证券</p>
                     <p>前瞻研究首席分析师</p>
                 </li>
                 <li>
-                    <img src="./images/pending_speakers/ps31.png" alt="">
+                    <img src="./images/pending_speakers/ps32.png" alt="">
                     <p>中国人工智能产业发展联盟</p>
                     <p>标准组副组长</p>
-                </li>
-                <li>
-                    <img src="./images/pending_speakers/ps32.png" alt="">
-                    <p>智东西</p>
-                    <p>联合创始人、CEO</p>
                 </li>
             </ul>
         </div>
@@ -363,6 +433,6 @@
     <h3>立即报名</h3>
     <p>Register</p>
 </a>
-
+<!--<embed width="640" height="360" allownetworking="all" allowscriptaccess="always" src="http://live.zhidx.com/AppName/StreamName.flv?auth_key=1520339626-0-0-c918f95dde2a95b48164109d3afdaee8" quality="high" bgcolor="#000" wmode="window" allowfullscreen="true" allowFullScreenInteractive="true" type="application/x-shockwave-flash">-->
 </body>
 </html>
