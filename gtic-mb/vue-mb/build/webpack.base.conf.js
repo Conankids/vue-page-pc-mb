@@ -36,8 +36,11 @@ module.exports = {
     extensions: ['.js', '.vue', '.json'],
     alias: {
       '@': resolve('src'),
-      'jquery': 'jquery'
+      'jquery': 'jquery',
     }
+  },
+  externals: {
+    'TcPlayer': 'window.TcPlayer'
   },
   module: {
     rules: [
@@ -81,7 +84,7 @@ module.exports = {
   plugins: [
     new webpack.ProvidePlugin({
       $: 'jquery',
-      jquery: 'jquery'
+      jquery: 'jquery',
     }),
   ],
   node: {

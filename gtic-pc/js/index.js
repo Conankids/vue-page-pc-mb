@@ -56,7 +56,7 @@ function addHightLight(targetId) {
 
 //直播
 var player =  new TcPlayer('id_test_video', {
-  "m3u8": "http://qn.wshls.acgvideo.com/live-qn/443918/live_272810390_7208513.m3u8?wsSecret=038c8663705a090da0e22337b8175fd8&wsTime=1520408021",
+  "m3u8": "http://qn.wshls.acgvideo.com/live-qn/101975/live_13308108_4196755.m3u8?wsSecret=924963f7cf14deb0aab8900df249878f&wsTime=1520421110",
   // "flv": "http://live.zhidx.com/AppName/StreamName.flv?auth_key=1520339626-0-0-c918f95dde2a95b48164109d3afdaee8", //增加了一个flv的播放地址，用于PC平台的播放 请替换成实际可用的播放地址
   "autoplay" : false,      //iOS下safari浏览器，以及大部分移动端浏览器是不开放视频自动播放这个能力的
   "coverpic" : {"style":"cover", "src":require('../images/live-bg.jpg')},

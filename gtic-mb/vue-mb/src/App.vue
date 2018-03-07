@@ -2,7 +2,7 @@
   <div id="app" v-cloak>
     <MyHeader/>
     <Home/>
-    <!--<Live/>-->
+    <Live/>
     <AboutGtic/>
     <PendingSpeakers/>
     <GticAwards/>
@@ -40,17 +40,6 @@
 
   export default {
     name: 'App',
-    mounted() {
-      this.disabledHref()
-    },
-    methods: {
-      disabledHref () {
-        const params = getParams()
-        if(params.laiyuan === 'wxcode'){
-          $('a').attr('href', 'javascript:;')
-        }
-      }
-    },
     components: {
       MyHeader,
       Home,
