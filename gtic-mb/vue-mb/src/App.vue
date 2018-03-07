@@ -5,6 +5,7 @@
     <Live/>
     <AboutGtic/>
     <PendingSpeakers/>
+    <Agenda/>
     <GticAwards/>
     <Park/>
     <EventRegistration/>
@@ -24,6 +25,7 @@
   import Register from './components/register'
   import AboutGtic from './components/about_gtic'
   import PendingSpeakers from './components/pending_speakers'
+  import Agenda from './components/agenda'
   import GticAwards from './components/gtic_awards'
   import Park from './components/park'
   import EventRegistration from './components/event_registration'
@@ -46,6 +48,7 @@
       Register,
       AboutGtic,
       PendingSpeakers,
+      Agenda,
       GticAwards,
       Park,
       EventRegistration,

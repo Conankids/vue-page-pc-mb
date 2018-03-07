@@ -326,6 +326,17 @@ section {
   width: 100%;
   margin-bottom: 5px;
 }
+.agenda-wrap {
+  background: url("../images/previous_gtic_bg.jpg") repeat-y top center;
+  background-size: 100% auto;
+}
+.agenda-wrap .agenda-content {
+  margin-top: 40px;
+  padding-bottom: 75px;
+}
+.agenda-wrap .agenda-content img {
+  width: 100%;
+}
 .awards-wrap {
   height: 900px;
   background: url("../images/previous_gtic_bg.jpg") no-repeat center center;

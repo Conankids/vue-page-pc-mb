@@ -3,7 +3,7 @@
         <Page :bgSrc="bgSrc" :titleSrc="titleSrc">
             <div class="live-content">
                 <div class="live-left">
-                    <div id="id_test_video" style="width:100%; height:auto;"></div>
+                    <div id="id_test_video" style="width:100%; height:100%;"></div>
                     <!--<video width="300" height="170" src="http://qn.wshls.acgvideo.com/live-qn/101975/live_13308108_4196755.m3u8?wsSecret=924963f7cf14deb0aab8900df249878f&wsTime=1520421110"></video>-->
                 </div>
                 <div class="live-right">
@@ -80,12 +80,18 @@
       this.$nextTick(function () {
         //直播
         const player =  new TcPlayer('id_test_video', {
-          "m3u8": "http://qn.wshls.acgvideo.com/live-qn/101975/live_13308108_4196755.m3u8?wsSecret=924963f7cf14deb0aab8900df249878f&wsTime=1520421110",
+          "m3u8": "http://live.zhidx.com/AppName/StreamName.m3u8?auth_key=1520339532-0-0-0f52b3529cf19e9dd335def8604c1ddc",
           "autoplay" : false,      //iOS下safari浏览器，以及大部分移动端浏览器是不开放视频自动播放这个能力的
           "coverpic" : {"style":"cover", "src":require('../assets/live-bg.jpg')},
           "width" :  '300',//视频的显示宽度，请尽量使用视频分辨率宽度
           "height" : '176',//视频的显示高度，请尽量使用视频分辨率高度
           "live" : true,
+          "wording": {
+            1: "直播未开始",
+            2: "直播未开始",
+            3: "直播未开始",
+            4: "直播未开始"
+        }
         })
       })
     },
