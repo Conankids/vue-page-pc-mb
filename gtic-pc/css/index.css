@@ -142,7 +142,7 @@ header menu li.on {
   border-bottom-color: #40E4A3;
 }
 header.main {
-  min-width: 1180px;
+  min-width: 1280px;
 }
 .register {
   width: 107px;
@@ -199,29 +199,19 @@ section {
   border-image: -o-linear-gradient(left, #40E4A3, #36D4EB) 30 30;
   border-image: linear-gradient(left, #40E4A3, #36D4EB) 30 30;
   float: left;
-  background: url("../images/homebg.jpg") no-repeat center center;
+  background: url("../images/live-bg.jpg") no-repeat center center;
   background-size: cover;
   color: #39D8DA;
   position: relative;
 }
-.live-wrap .palyer-shadow {
+.live-wrap .player-shadow {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.3);
-}
-.live-wrap .palyer-shadow .play {
-  width: 60px;
-  height: 60px;
-  background: url("../images/player.png") no-repeat center center;
-  background-size: 60px auto;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: -30px auto auto -30px;
-  cursor: pointer;
+  text-align: center;
+  padding-top: 100px;
 }
 .live-wrap .live-right {
   width: 283px;

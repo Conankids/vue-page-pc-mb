@@ -4,7 +4,7 @@
             <div class="live-content">
                 <div class="live-left">
                     <div id="id_test_video" style="width:100%; height:100%;"></div>
-                    <!--<video width="300" height="170" src="http://qn.wshls.acgvideo.com/live-qn/101975/live_13308108_4196755.m3u8?wsSecret=924963f7cf14deb0aab8900df249878f&wsTime=1520421110"></video>-->
+                    <div class="player-shadow" v-if="!startLive">直播尚未开始</div>
                 </div>
                 <div class="live-right">
                     <h3><span>其他直播平台</span></h3>
@@ -16,20 +16,20 @@
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:;">
+                            <a href="http://ic.snssdk.com/live_talk/wap/share/6530176631279976964/?app_id=13&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&from=singlemessage">
                                 <div class="color-block red"></div>
                                 <div class="live-title">今日头条</div>
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:;">
+                            <a href="https://yq.aliyun.com/webinar/play/411">
                                 <div class="color-block blue"></div>
                                 <div class="live-title">云溪社区</div>
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:;">
-                                <div class="color-block red"></div>
+                            <a href="http://zhibo.ifeng.com/video.html?liveid=115291">
+                                <div class="color-block yellow"></div>
                                 <div class="live-title">凤凰直播</div>
                             </a>
                         </li>
@@ -40,20 +40,20 @@
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:;">
+                            <a href="http://bn.sina.cn/video/live/index/mobile/ty20033944">
                                 <div class="color-block red"></div>
                                 <div class="live-title">新浪直播</div>
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:;">
+                            <a href="http://c.m.163.com/news/l/173238.html">
                                 <div class="color-block blue"></div>
                                 <div class="live-title">网易直播</div>
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:;">
-                                <div class="color-block orange"></div>
+                            <a href="https://www.douyu.com/432849">
+                                <div class="color-block yellow"></div>
                                 <div class="live-title">斗鱼直播</div>
                             </a>
                         </li>
@@ -73,11 +73,14 @@
     data(){
       return{
         bgSrc: require('../assets/common_bg.png'),
-        titleSrc: require('../assets/live.png')
+        titleSrc: require('../assets/live.png'),
+        startLive: false
       }
     },
     mounted: function () {
       this.$nextTick(function () {
+        if(!this.isStart()) return
+        this.startLive = true
         //直播
         const player =  new TcPlayer('id_test_video', {
           "m3u8": "http://live.zhidx.com/AppName/StreamName.m3u8?auth_key=1520339532-0-0-0f52b3529cf19e9dd335def8604c1ddc",
@@ -94,6 +97,14 @@
         }
         })
       })
+    },
+    methods: {
+      isStart () {
+        const startTimeStr = '2018/03/09 09:00:00'
+        const nowTime = new Date()
+        const startTime = new Date(startTimeStr)
+        return (nowTime>=startTime)
+      }
     },
     components:{
       Page,
@@ -125,6 +136,15 @@
             background-size: cover;
             color: #39D8DA;
             position: relative;
+        }
+        .player-shadow{
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            text-align: center;
+            padding-top: 50px;
         }
         .live-right{
             margin-top: 87px;
