@@ -10,13 +10,13 @@
                     <h3><span>其他直播平台</span></h3>
                     <ul>
                         <li>
-                            <a href="javascript:;">
+                            <a href="http://v.qq.com/live/p/topic/48687/index.html">
                                 <div class="color-block yellow"></div>
                                 <div class="live-title">腾讯新闻</div>
                             </a>
                         </li>
                         <li>
-                            <a href="http://ic.snssdk.com/live_talk/wap/share/6530176631279976964/?app_id=13&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&from=singlemessage">
+                            <a href="http://ic.snssdk.com/live_talk/wap/share/6530724477343367693/?app_id=13&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_ios&utm_campaign=client_share&wxshare_count=1&from=singlemessage&isappinstalled=0">
                                 <div class="color-block red"></div>
                                 <div class="live-title">今日头条</div>
                             </a>
@@ -24,7 +24,7 @@
                         <li>
                             <a href="https://yq.aliyun.com/webinar/play/411">
                                 <div class="color-block blue"></div>
-                                <div class="live-title">云溪社区</div>
+                                <div class="live-title">云栖社区</div>
                             </a>
                         </li>
                         <li>
@@ -34,7 +34,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:;">
+                            <a href="https://kuaibao.qq.com/s/20180309A0CYWH00">
                                 <div class="color-block yellow"></div>
                                 <div class="live-title">天天快报</div>
                             </a>
