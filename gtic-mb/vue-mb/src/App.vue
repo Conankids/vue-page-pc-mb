@@ -8,7 +8,7 @@
     <Agenda/>
     <GticAwards/>
     <Park/>
-    <EventRegistration/>
+    <!--<EventRegistration/>-->
     <ConfrenceVenue/>
     <!--<PreviousGtic/>-->
     <Host/>

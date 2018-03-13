@@ -9,7 +9,7 @@
                 <div class="menu-item" data-target="conference-agenda">大会议程</div>
                 <div class="menu-item" data-target="gtic-awards">年度评选</div>
                 <div class="menu-item" data-target="park">科技公园</div>
-                <div class="menu-item" data-target="event-registration">活动报名</div>
+                <!--<div class="menu-item" data-target="event-registration">活动报名</div>-->
                 <div class="menu-item" data-target="confrence-venue">大会地点</div>
                 <!--<div class="menu-item" data-target="previous-gtic">往届峰会</div>-->
                 <div class="menu-item" data-target="host">合作机构</div>
