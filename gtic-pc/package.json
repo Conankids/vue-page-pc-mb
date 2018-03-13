@@ -11,7 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "dplayer": "^1.22.2",
+    "jquery": "^3.2.1",
+    "videojs": "^1.0.0",
+    "videojs-contrib-hls": "^5.13.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
