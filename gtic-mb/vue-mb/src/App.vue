@@ -18,7 +18,6 @@
     <!--<Register/>-->
   </div>
 </template>
-
 <script>
   import MyHeader from './components/my_header'
   import Home from './components/home'

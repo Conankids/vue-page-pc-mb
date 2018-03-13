@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289b5c9e-8f95-44a6-8483-b135595905ed" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/agenda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/conference-agenda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/agenda.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/conference-agenda.png" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/conference-agenda.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/App.vue" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/App.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue" afterPath="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue" />
     </list>
@@ -22,12 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pending_speakers.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/pending_speakers.vue">
+      <file leaf-file-name="menu.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="197" column="21" lean-forward="false" selection-start-line="197" selection-start-column="21" selection-end-line="197" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              <folding>
+                <element signature="e#1171#1196#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,53 +33,9 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-              <folding>
-                <element signature="e#352#397#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/footer.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="26" column="57" lean-forward="false" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agenda.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/agenda.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding>
-                <element signature="e#1164#1189#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -135,10 +89,10 @@
         <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/register.vue" />
         <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/home.vue" />
         <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/footer.vue" />
-        <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue" />
-        <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/App.vue" />
         <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/agenda.vue" />
         <option value="$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js" />
+        <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue" />
+        <option value="$PROJECT_DIR$/gtic-mb/vue-mb/src/App.vue" />
       </list>
     </option>
   </component>
@@ -174,8 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,12 +158,19 @@
               <item name="gtic" type="462c0819:PsiDirectoryNode" />
               <item name="gtic-mb" type="462c0819:PsiDirectoryNode" />
               <item name="vue-mb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gtic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gtic" type="462c0819:PsiDirectoryNode" />
+              <item name="gtic-pc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,15 +182,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/gtic-mb/vue-mb/static/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets" />
       <recent name="$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/pending_speakers" />
       <recent name="$PROJECT_DIR$/gtic-pc/images" />
       <recent name="$PROJECT_DIR$/gtic-pc/js" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gtic-mb/vue-mb/static/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,7 +237,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48154000" />
+    <option name="totallyTimeSpent" value="48515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -406,13 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="299" column="36" lean-forward="true" selection-start-line="299" selection-start-column="36" selection-end-line="299" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#form#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#form#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#form#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,23 +384,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gtic-pc/dist/static/css/main.c2b3a753ce7b9c2f1ade.css" />
-    <entry file="file://$PROJECT_DIR$/gtic-pc/dist/static/js/main.406784fb3933d07bccf9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/dist/static/js/main.406784fb3933d07bccf9.js" />
     <entry file="file://$PROJECT_DIR$/gtic-pc/dist/static/js/main.c2b3a753ce7b9c2f1ade.js" />
-    <entry file="file://$PROJECT_DIR$/gtic-pc/dist/static/css/main.406784fb3933d07bccf9.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="0" column="7288" lean-forward="false" selection-start-line="0" selection-start-column="7288" selection-end-line="0" selection-end-column="7288" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-pc/dist/static/css/main.406784fb3933d07bccf9.css" />
     <entry file="file://$PROJECT_DIR$/gtic-pc/webpack.dev.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
@@ -508,70 +446,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="328" column="3" lean-forward="false" selection-start-line="328" selection-start-column="3" selection-end-line="328" selection-end-column="3" />
-          <folding>
-            <marker date="1520426618584" expanded="true" signature="6612:7160" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="6715:6742" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="6757:6979" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="6996:7156" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="7173:7926" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="7301:7924" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="7358:7385" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="7400:7501" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="7514:7743" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="7760:7920" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="7945:9278" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8090:9276" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8132:8510" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8383:8504" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8529:8560" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8584:8705" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8730:8873" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8786:8867" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="8890:9095" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9112:9272" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9290:10512" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9428:9455" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9467:10510" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9538:9564" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9580:10506" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9782:9869" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9890:10111" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="9928:10026" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10036:10103" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10131:10415" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10169:10269" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10279:10407" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10435:10500" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10527:10891" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10668:10889" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10711:10885" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10823:10879" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10836:10871" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10902:11450" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10945:11448" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="10977:11049" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11058:11444" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11098:11183" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11192:11358" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11367:11438" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11464:12374" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11598:11706" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11722:12298" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11748:12294" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="11805:12288" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12080:12175" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12185:12280" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12315:12372" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12342:12368" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12382:12996" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12434:12885" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12465:12881" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12638:12750" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12673:12742" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12763:12875" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="12896:12994" ph="{...}" />
-            <marker date="1520426618584" expanded="true" signature="13021:13095" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -587,11 +462,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="72" column="3" lean-forward="false" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
-          <folding>
-            <marker date="1520426618584" expanded="true" signature="1763:2516" ph="{&quot;m3u8&quot;: &quot;http://live.zhidx.com/AppName/StreamName.m3u8?auth_key=1520339532-0-0-0f52b3529cf19e9dd335def8604c1ddc&quot;...}" />
-            <marker date="1520426618584" expanded="true" signature="2510:2514" ph="{&quot;1&quot;: &quot;直播未开始&quot;...}" />
-            <marker date="1520426618584" expanded="true" signature="2520:2617" ph="//..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -662,32 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/live.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="e#230#255#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-          <folding>
-            <element signature="e#1164#1189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/agenda.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/conference-agenda.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -732,9 +578,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/live.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/components/menu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#1171#1196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/assets/conference-agenda.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="499">
           <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
           <folding />
         </state>
@@ -742,11 +611,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gtic-mb/vue-mb/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-          <folding>
-            <element signature="e#352#397#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
